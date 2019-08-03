@@ -1,2 +1,0 @@
-# ExampleAngular
-Created with CodeSandbox
